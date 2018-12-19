@@ -1,0 +1,22 @@
+//
+//  MainScreen.swift
+//  NatureGuardians1
+//
+//  Created by 21-Frantz,Jonathan on 12/13/18.
+//  Copyright © 2018 21-Frantz,Jonathan. All rights reserved.
+//
+
+import UIKit
+
+class MainScreen: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+    
+
+    //each button displays a different screen
+    //(probably not much here)
+}
